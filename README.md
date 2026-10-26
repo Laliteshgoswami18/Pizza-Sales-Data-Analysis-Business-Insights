@@ -94,12 +94,9 @@ This project focuses on analyzing pizza sales data to uncover meaningful busines
 
 ## 🛠 Tools Used
 
-* MySQL
 * SQL
 * MySQL Workbench
-* Git
-* GitHub
-
+  
 ---
 
 ## 🚀 Project Highlights
