@@ -1,4 +1,4 @@
-# 🍕 Business Intelligence Analysis for Pizza Sales 
+# 🍕  Pizza Sales Data Analysis & Business Insights
 
 ## 📖 Project Overview
 
